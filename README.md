@@ -7,7 +7,7 @@ This repository contains the complete vulnerability assessment of [itsecgames.co
 ## Contents
 - **/report/** – Final detailed PDF report with findings and CVE mapping.
 - **/screenshots/** – Evidence of command outputs and tool results.
-- **/demo/** – Google Drive link to the recorded demonstration.
+
 
 ## Tools Used
 - Kali Linux Utilities  
@@ -21,9 +21,6 @@ This repository contains the complete vulnerability assessment of [itsecgames.co
 - Expired SSL certificate and missing HSTS  
 - Information disclosure through Apache defaults and Drupal metadata  
 
-## Demonstration Video
-The walkthrough recording can be found here:  
-[Google Drive Video Demonstration](PASTE_YOUR_LINK_HERE)
 
 ---
 
